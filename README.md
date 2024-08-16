@@ -3,64 +3,41 @@ Kaushal Here
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-v1.0-blue) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Welcome to my personal portfolio! Here you'll find a collection of my projects, skills, and experiences that showcase my journey as a developer.
+Welcome to my personal portfolio! Here you'll find a collection of my skills and experiences that showcase my journey as a developer.
 
 ## 📜 Table of Contents
 
 - [About Me](#about-me)
-- [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
 - [License](#license)
 
 ## 👨‍💻 About Me
 
-Hi! I'm **[Your Name]**, a passionate developer with a focus on creating impactful and efficient solutions. My expertise lies in frontend development, but I also enjoy exploring other areas of tech. When I'm not coding, you can find me learning new technologies or contributing to open-source projects.
+Hi! I'm **Kaushal Raj**, a passionate frontend developer with a focus on creating impactful and efficient digital experiences. My expertise lies in React and Angular, but I'm always exploring new technologies and enhancing my skill set. When I'm not coding, you can find me contributing to open-source projects.
 
-- **Location:** [Your City, Country]
-- **Experience:** [Years of Experience]
-- **Interests:** [Your Interests]
-- **Currently Learning:** [Technology/Framework]
-
-## 🚀 Projects
-
-Here are a few of the projects I've worked on:
-
-### 1. [Project Name](https://github.com/your-username/project-repo)
-   - **Description:** Brief description of the project.
-   - **Tech Stack:** [List of Technologies]
-   - **Live Demo:** [Link to Live Demo]
-   - **GitHub:** [Link to Repository]
-
-### 2. [Project Name](https://github.com/your-username/project-repo)
-   - **Description:** Brief description of the project.
-   - **Tech Stack:** [List of Technologies]
-   - **Live Demo:** [Link to Live Demo]
-   - **GitHub:** [Link to Repository]
-
-### 3. [Project Name](https://github.com/your-username/project-repo)
-   - **Description:** Brief description of the project.
-   - **Tech Stack:** [List of Technologies]
-   - **Live Demo:** [Link to Live Demo]
-   - **GitHub:** [Link to Repository]
+- **Location:** Ranchi, India
+- **Experience:** 2 years
+- **Interests:** Web Development, Open Source, Learning New Technologies
+- **Currently Learning:** Firebase, Generative AI, Video Streaming
 
 ## 💼 Skills
 
 These are some of the technologies and tools I work with:
 
-- **Frontend:** [HTML, CSS, JavaScript, React, etc.]
-- **Backend:** [Node.js, Express, etc.]
-- **Database:** [MongoDB, SQL, etc.]
-- **Dev Tools:** [Git, Webpack, etc.]
+- **Frontend:** HTML, CSS, JavaScript, React, Angular
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, SQL
+- **Dev Tools:** Git, Webpack
 
 ## 📫 Contact
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me:
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-- **Portfolio:** [Your Portfolio Website](https://your-portfolio.com)
+- **Email:** kausraj11@gmail.com
+- **LinkedIn:** [Kaushal Raj](https://www.linkedin.com/in/kaushalraj)
+- **GitHub:** [https://github.com/kaushalraj](https://github.com/kaushalraj)
+- **Portfolio:** [https://kaushalraj.netlify.app](https://kaushalraj.netlify.app)
 
 ## 📝 License
 
