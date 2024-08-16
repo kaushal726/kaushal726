@@ -9,6 +9,7 @@ Welcome to my personal portfolio! Here you'll find a collection of my skills and
 
 - [About Me](#about-me)
 - [Skills](#skills)
+- [GitHub Stats](#github-stats)
 - [Contact](#contact)
 
 
@@ -30,6 +31,16 @@ These are some of the technologies and tools I work with:
 - **Database:** MongoDB, SQL
 - **Dev Tools:** Git, Webpack
 
+## 📊 GitHub Stats
+
+![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalraj&show_icons=true&theme=radical)
+
+![Kaushal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushalraj&theme=radical)
+
+![Kaushal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalraj&layout=compact&theme=radical)
+
+![Kaushal's GitHub Stars](https://img.shields.io/github/stars/kaushalraj?style=social)
+
 ## 📫 Contact
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me:
@@ -39,6 +50,6 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 - **GitHub:** [Github](https://github.com/kaushalraj)
 - **Portfolio:** [Portfolio](https://kaushalraj.netlify.app)
 
-
+---
 
 Thanks for visiting my portfolio! 😊
