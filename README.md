@@ -10,7 +10,7 @@ Welcome to my personal portfolio! Here you'll find a collection of my skills and
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Contact](#contact)
-- [License](#license)
+
 
 ## 👨‍💻 About Me
 
@@ -39,10 +39,6 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 - **GitHub:** [Github](https://github.com/kaushalraj)
 - **Portfolio:** [Portfolio](https://kaushalraj.netlify.app)
 
-## 📝 License
 
-This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Thanks for visiting my portfolio! 😊
