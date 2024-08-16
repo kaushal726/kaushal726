@@ -33,19 +33,18 @@ These are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalraj&show_icons=true&theme=radical)
+![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushal7266&show_icons=true&theme=radical)
 
-![Kaushal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushalraj&theme=radical)
+![Kaushal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushal7266&theme=radical)
 
-![Kaushal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalraj&layout=compact&theme=radical)
+![Kaushal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal7266&layout=compact&theme=radical)
 
-![Kaushal's GitHub Stars](https://img.shields.io/github/stars/kaushalraj?style=social)
+![Kaushal's GitHub Stars](https://img.shields.io/github/stars/kaushal7266?style=social)
 
 ## 📫 Contact
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me:
 
-- **Email:** kausraj11@gmail.com
 - **LinkedIn:** [Kaushal Raj](https://www.linkedin.com/in/kaushalraj)
 - **GitHub:** [Github](https://github.com/kaushalraj)
 - **Portfolio:** [Portfolio](https://kaushalraj.netlify.app)
