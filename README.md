@@ -36,8 +36,8 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 
 - **Email:** kausraj11@gmail.com
 - **LinkedIn:** [Kaushal Raj](https://www.linkedin.com/in/kaushalraj)
-- **GitHub:** [https://github.com/kaushalraj](https://github.com/kaushalraj)
-- **Portfolio:** [https://kaushalraj.netlify.app](https://kaushalraj.netlify.app)
+- **GitHub:** [Github](https://github.com/kaushalraj)
+- **Portfolio:** [Portfolio](https://kaushalraj.netlify.app)
 
 ## 📝 License
 
