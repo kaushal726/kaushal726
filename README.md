@@ -14,40 +14,21 @@
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td align="left" width="50%">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-**Full Stack Developer** with 3+ years building scalable web applications — from Microfrontend architectures to venue management platforms.
+<br/>
 
-🔭 &nbsp;Currently building **Zillout** — a full-stack venue & pub management system<br/>
-🏢 &nbsp;Previously at **MapMyIndia** — built MFE modules used at scale<br/>
-⚡ &nbsp;Stack: **Java · Spring Boot · React · TypeScript · PostgreSQL**<br/>
-🌱 &nbsp;Exploring: **Generative AI · Firebase · Video Streaming**<br/>
-🤝 &nbsp;Open to collaborations & open source
+⚡ &nbsp;Stack: **Java · Spring Boot · React · TypeScript · PostgreSQL**
 
-</td>
-<td align="left" width="50%">
+🌱 &nbsp;Currently exploring **Generative AI · Firebase · Video Streaming**
 
-**🎯 Skill Pulse**
+🤝 &nbsp;Open to **Collaborations & Open Source**
 
-```text
-⚛️  React / TypeScript   █████████░  90%
-☕  Java / Spring Boot   ████████░░  80%
-🐘  PostgreSQL           ███████░░░  70%
-☁️  Firebase / Cloud     ████░░░░░░  40%
-🤖  Generative AI        ████░░░░░░  40%
-```
+📫 &nbsp;Reach me at **kausraj11@gmail.com**
 
-</td>
-  </tr>
-</table>
-
-</div>
+<br/><br/>
 
 ---
 
